@@ -1,0 +1,2 @@
+D:/swos/01_dev/00_amiga_mode/02_research/01_code_converter_v2/set-191111-v/vanilla5/ggpo/ggpo-master/build/installed/.//include/ggponet.h
+D:/swos/01_dev/00_amiga_mode/02_research/01_code_converter_v2/set-191111-v/vanilla5/ggpo/ggpo-master/build/installed/lib/GGPO.lib
