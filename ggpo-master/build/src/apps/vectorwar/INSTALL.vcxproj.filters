@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\swos\01_dev\00_amiga_mode\02_research\01_code_converter_v2\set-191111-v\vanilla5\ggpo\ggpo-master\build\CMakeFiles\a2c0e783a85d4bddc56549378858fa0c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{645ADEF7-10AB-39FB-8C41-811E3024F706}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
